@@ -2,7 +2,7 @@
 
 ### REQUIREMENTS
 
-Doors CS 7.2 (dcs.cemetech.net)
+[Doors CS 7.2](dcs.cemetech.net)
 A TI-83 Plus, TI-83 Plus Silver Edition, TI-84 Plus, or TI-84 Plus Silver Edition
 
 ### HOW TO INSTALL
